@@ -1,4 +1,4 @@
-Templates.NuGet
+magic_repo_name_magic
 ===============
 
-A template for creating NuGet packages.
+magic_repo_description_magic
