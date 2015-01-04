@@ -1,4 +1,4 @@
-magic_repo_name_magic
+magic_title_magic
 ===============
 
-magic_repo_description_magic
+magic_description_magic
